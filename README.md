@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 - 🙎🏻‍♂️ I’m a designer who codes.
 - 🧠 My research interest mainly lies in tangible interactions and peripheral interactions in the context of connected things.
-- 👾 I open source my codes here for my projects and host my porfolio on [pxing.design](https://pxing.design)
+- 👾 I open source my codes here for my projects and host my porfolio ➡️ [pxing.design](https://pxing.design)
+- 🏅 I am a marathon enthusiast and you can find my running statistics ➡️ [here](https://pxing.design/run-tracker/).
 - 🤔 I’m currently seeking a Ph.D. position in the field Human-Computer Interaction.
 - 📫 You can approach me via [hi@pxing.design](mailto:hi@pxing.design)
