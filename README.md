@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🙎🏻‍♂️ I’m a designer who codes.
 - 🧠 My research interest mainly lies in designing tangible interactions in the context of connected things.
-- 👾 I open source my codes here for my projects and host my porfolio ➡️ [pxing.design](https://pxing.design)
-- 🏅 I am a marathon enthusiast and you can find my running statistics ➡️ [here](https://pxing.design/run-tracker/).
+- 👾 I open source my codes here for my projects and host my porfolio ➡️ [pxing.design](https://sarkxing.design)
+- 🏅 I am also a marathon and swimming enthusiast.
 - 🤔 I’m currently doing my Ph.D. at the PolyU School of Design. 
 - 📫 You can approach me via [hi@pxing.design](mailto:hi@pxing.design)
