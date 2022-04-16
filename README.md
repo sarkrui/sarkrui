@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ![GitHub State](https://github-readme-stats.vercel.app/api?username=sarkrui&show_icons=true&theme=dracula)
 
-- 🙎🏻‍♂️ I’m a designer who codes.
-- 🧠 My research interest mainly lies in designing tangible interactions in the context of connected things.
-- 👾 I open source my codes here for my projects and host my porfolio ➡️ [sarkxing.design](https://sarkxing.design)
-- 🏅 I am also a marathon and swimming enthusiast.
-- 🤔 I’m currently doing my Ph.D. at the PolyU School of Design. 
-- 📫 You can approach me via [hi@pxing.design](mailto:hi@sarkxing.design)
+- 🙎🏻‍♂️ I am a designer who codes.
+- 🤔 I am doing my PhD at the PolyU School of Design. 
+- 🧠 My research interest lies in designing tangible interactions in the context of connected things.
+- 👾 I am here to open source my design and research projects as well as maintaining my porfolio at [sarkxing.design](https://sarkxing.design)
+- 🏅 I am also an enthusiast of marathon and swimming.
+- 📫 You can approach me via [hi@sarkxing.design](mailto:hi@sarkxing.design)
