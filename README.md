@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 👾 I open source my codes here for my projects and host my porfolio ➡️ [sarkxing.design](https://sarkxing.design)
 - 🏅 I am also a marathon and swimming enthusiast.
 - 🤔 I’m currently doing my Ph.D. at the PolyU School of Design. 
-- 📫 You can approach me via [hi@pxing.design](mailto:hi@pxing.design)
+- 📫 You can approach me via [hi@pxing.design](mailto:hi@sarkxing.design)
