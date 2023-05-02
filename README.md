@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ![GitHub State](https://github-readme-stats.vercel.app/api?username=sarkrui&show_icons=true&theme=dracula)
 
-- 🙎🏻‍♂️ I am a designer who codes.
+- 🙎🏻‍♂️ I am a designer who codes (now GPT4 does that for me : p).
 - 🤔 I am doing my PhD at the PolyU School of Design. 
-- 🧠 My research interest lies in designing tangible interactions in the context of connected things.
+- 🧠 My research interest lies in designing interactive materiality for everyday activities.
 - 👾 I am here to open source my design and research projects as well as maintaining my porfolio at [sarkxing.design](https://sarkxing.design)
 - 🏅 I am also an enthusiast of marathon and swimming.
 - 📫 You can approach me via [hi@sarkxing.design](mailto:hi@sarkxing.design)
