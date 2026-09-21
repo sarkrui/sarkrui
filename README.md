@@ -1,25 +1,18 @@
-### Hi there 👋
+Hi. I go by Sark. Shark, minus the h.
 
-<!--
-**sarkrui/sarkrui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I mix materials and computation into things for an ordinary day: a device, a system, sometimes an installation. Hands first. I make a version, set it next to the last one, try it with the people and the place it is for, and keep what they actually do with it. HCI, materials science, and computer science all get pulled into that. The formal label is research through design. The method is making.
 
-Here are some ideas to get you started:
+PhD in Design at [PolyU Design](https://www.sd.polyu.edu.hk). MSc in Industrial Design at [TU Eindhoven](https://www.tue.nl), interaction design. BEng in BNUZ Industrial Design too.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If a job repeats, an agent should have it. I edit a lot of this on foot: walking, talking into [Typeless](https://www.typeless.com), sending the prompt on to whichever agent is holding the project. Pull-ups are for the wear of sitting all those years. I run and I swim for the same body. The hours that come back are for health, a good meal, and a day worth experiencing.
 
-![GitHub State](https://github-readme-stats.vercel.app/api?username=sarkrui&show_icons=true&theme=dracula)
+Projects and a CV are on [sarkxing.design](https://sarkxing.design).
 
-- 🙎🏻‍♂️ I am a designer who codes (now GPT4 does that for me : p).
-- 🤔 I am doing my PhD at the PolyU School of Design. 
-- 🧠 My research interest lies in designing interactive materiality for everyday activities.
-- 👾 I am here to open source my design and research projects as well as maintaining my porfolio at [sarkxing.design](https://sarkxing.design)
-- 🏅 I am also an enthusiast of marathon and swimming.
-- 📫 You can approach me via [hi@sarkxing.design](mailto:hi@sarkxing.design)
+[hi@sarkxing.design](mailto:hi@sarkxing.design) · [Google Scholar](https://scholar.google.com/citations?user=jCjpEuUAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/sark-p-xing/)
+
+<a href="https://tokens.ci/u/sarkrui">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://tokens.ci/api/embed/sarkrui/svg?theme=dark&template=blueprint&color=teal&graph=1&tokens=compact&cost=compact&rank=total">
+    <img width="640" alt="Token usage for @sarkrui" src="https://tokens.ci/api/embed/sarkrui/svg?theme=light&template=blueprint&color=teal&graph=1&tokens=compact&cost=compact&rank=total">
+  </picture>
+</a>
