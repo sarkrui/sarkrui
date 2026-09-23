@@ -1,10 +1,14 @@
 Hi. I go by Sark. Shark, minus the h.
 
-I mix materials and computation into things for an ordinary day: a device, a system, sometimes an installation. Hands first. I make a version, set it next to the last one, try it with the people and the place it is for, and keep what they actually do with it. HCI, materials science, and computer science all get pulled into that. The formal label is research through design. The method is making.
+I'm an AI-native full-stack developer. Mobile, desktop, and hardware. I use AI on all of them to work faster, and I use [Typeless](https://www.typeless.com). A lot of edits happen on walks: I talk the change, then send the prompt to my agents. Repetitions go to the agents.
 
-PhD in Design at [PolyU Design](https://www.sd.polyu.edu.hk). MSc in Industrial Design at [TU Eindhoven](https://www.tue.nl), interaction design. BEng in BNUZ Industrial Design too.
+My research is design and HCI in general. Day to day, decision making and prototyping.
 
-If a job repeats, an agent should have it. I edit a lot of this on foot: walking, talking into [Typeless](https://www.typeless.com), sending the prompt on to whichever agent is holding the project. Pull-ups are for the wear of sitting all those years. I run and I swim for the same body. The hours that come back are for health, a good meal, and a day worth experiencing.
+PhD in Design at [PolyU Design](https://www.sd.polyu.edu.hk). MSc in Industrial Design at [TU Eindhoven](https://www.tue.nl), interaction design. BEng in Industrial Design at BNUZ.
+
+GitHub is where I host this work. Most of it is in private repos. When something is useful or fun, I try to open source it.
+
+Pull-ups are for the strain from sitting too long. I also run and swim. Spare time goes to health, good food, and getting out.
 
 Projects and a CV are on [sarkxing.design](https://sarkxing.design).
 
