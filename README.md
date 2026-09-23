@@ -2,6 +2,8 @@ Hi. I go by Sark. Shark, minus the h.
 
 I'm an AI-native full-stack developer. Mobile, desktop, and hardware. I use AI on all of them to work faster, and I use [Typeless](https://www.typeless.com). A lot of edits happen on walks: I talk the change, then send the prompt to my agents. Repetitions go to the agents.
 
+I like working at night and past midnight, probably because I'm a US stock investor too. My hours run about 3 hours later than Beijing time.
+
 My research is design and HCI in general. Day to day, decision making and prototyping.
 
 PhD in Design at [PolyU Design](https://www.sd.polyu.edu.hk). MSc in Industrial Design at [TU Eindhoven](https://www.tue.nl), interaction design. BEng in Industrial Design at BNUZ.
